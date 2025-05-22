@@ -1,10 +1,12 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00008B&text=Lucas%20Romão🕷️&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&fontAlign=54&fontAlignY=41&animation=blinking">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=4B0082&text=Lucas%20Romão👾&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&fontAlign=54&fontAlignY=41">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=1000&pause=5000&color=0000FF&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Network+Analyst">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Play&size=25&duration=1000&pause=5000&color=FF66B2&background=FFFFFF00&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+Network+Analyst">
 </p>
+
+
 
 ## Sobre mim 😇
 
@@ -42,3 +44,44 @@ Conecte-se comigo!
 | ![CCNA Itn](https://img.shields.io/badge/CISCO_Introduction_To_Networks-T?style=plastic&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks |
 | ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-T?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=bkack&color=gray) | AWS Cloud Foundations |
 | ![Microsoft_IA900](https://img.shields.io/badge/_-Senai_Microsoft_IA900-T?style=plastic&logo=icloud&color=white) | Microsoft IA-900 |
+
+
+## Conquistas 🥇
+
+- Curso Técnico de Redes de Computadores
+- 7° no CTF da MinSait, realizado no Senai
+- Curso AWS Cloud Foundations
+- Projeto Zabbix + Grafana (NeoAlphs)
+- Projeto Infraestrutura na Azure (TechWave)
+- Certificado Microsoft IA-900
+- Curso de HTML, CSS e JavaScript
+- Casa IOT
+
+## Projetos 📝
+
+- Casa inteligente voltada aos PCDs com o uso de IoT
+- Monitoramento On-premises com o uso de Zabbix e Grafana
+- Infraestrutra em nuvem da Azure e da AWS
+- Cabeamento estruturado baseado em empresas reais
+- Infraestutura de Redes com o uso do Packet Tracer
+- Desenvolvimento de sites responsivos utilizando HTML, CSS e JavaScript
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=LucasRomaoDLM07&theme=transparent&hide_border=true&short_numbers=true">
+</p>
+
+
+
+## Conecte-se comigo! 📞
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/lucas-romao-/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"><a/>
+ </p>
+
+<h4 align="center">
+  Obrigado por visitar!
+  <br><br>
+  <div>
+  <img src="https://komarev.com/ghpvc/?username=your-github-LucasRomaoDLM07">
+ </div>
+</h4>
