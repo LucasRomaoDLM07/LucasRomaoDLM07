@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00008B&text=Lucas%20Romão👶🏼&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&fontAlign=54&fontAlignY=41&animation=blinking">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=00008B&text=Lucas%20Romão🕷️&reversal=true&textBg=false&fontColor=FFFFFF&fontSize=65&fontAlign=54&fontAlignY=41&animation=blinking">
 </h1>
 
 <p align="center">
@@ -8,14 +8,14 @@
 
 ## Sobre mim 😇
 
-<img align="right" height="230" src="https://i.pinimg.com/originals/26/b3/08/26b3080c60c07902d0adf6caf2d671b4.gif">
+<img align="right" height="230" src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif">
 
 Cursando o terceiro semestre de Redes de Computadores no SENAI com foco em Backend e desenvolvimento WEB, além disso, 
 possuo experiência prática com nuvem AWS e Azure. 
 
 Conecte-se comigo! 
 
-<br><br>
+<br><br><br>
 
 **"Com grandes poderes vem grandes responsabilidades 🕷️🕷️" - Parker, Ben**
 
@@ -34,3 +34,11 @@ Conecte-se comigo!
   <img src="https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=fff">
   <img src="https://img.shields.io/badge/Bitcoin-FF9900?logo=bitcoin&logoColor=white">
 </p>
+
+## Certificações
+
+| Certificação | Nome | 
+| --- | --- |
+| ![CCNA Itn](https://img.shields.io/badge/CISCO_Introduction_To_Networks-T?style=plastic&logo=cisco&color=black) | Cisco NetAcademy Introduction To Networks |
+| ![AWS_CF](https://img.shields.io/badge/_-AWS_Academy_Cloud_Foundations-T?style=plastic&logo=amazonwebservices&logoColor=yellow&labelColor=bkack&color=gray) | AWS Cloud Foundations |
+| ![Microsoft_IA900](https://img.shields.io/badge/_-Senai_Microsoft_IA900-T?style=plastic&logo=icloud&color=white) | Microsoft IA-900 |
